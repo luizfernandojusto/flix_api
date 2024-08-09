@@ -8,6 +8,7 @@ Django==5.0.7
 djangorestframework==3.15.2
 djangorestframework-simplejwt==5.3.1
 executing==2.0.1
+flake8==7.1.1
 ipykernel==6.29.5
 ipython==8.26.0
 jedi==0.19.1
